@@ -1,5 +1,5 @@
 # Classification-using-KMeans-and-SimpleMKL
-very large scale classification based on K-Means clustering &amp; Multi-Kernel SVM(SimpleMKL)
+Very large scale classification based on K-Means clustering &amp; Multi-Kernel SVM(SimpleMKL)
 
 Here, we are going to implement the method proposed in this article, "[Very large scale classification based on K-Means clustering &amp; Multi-Kernel SVM(SimpleMKL)](https://dl.acm.org/doi/abs/10.1007/s00500-018-3041-0)" at ACM Digital Library.
 
@@ -37,3 +37,6 @@ The **very large scale datasets** are:
 * [Covertype](https://archive.ics.uci.edu/ml/datasets/covertype) (581’012*54)
     - Aspen vs other
 
+## Results:
+
+Results can be seen at the end of [presentation file](https://github.com/salidotir/Classification-using-KMeans-and-SimpleMKL/blob/main/Presentation.pdf) uploaded in this repository.
